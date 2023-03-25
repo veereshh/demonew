@@ -44,7 +44,7 @@ spec:
     spec:
       containers:
         - name: tomcat-container-nautilus
-          image: veereshh220/tomcat-demo:12b4d31
+          image: veereshh220/tomcat-demo:1.0
           ports:
             - containerPort: 8080
 
